@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello stranger 👋
 
 ### ✏️ Currently using...
 - **Languages:** Javascript, HTML, CSS, SQL
