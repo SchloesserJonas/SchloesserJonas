@@ -15,7 +15,8 @@
 - Python
 
 ### Other
-- Huge interest in DevOps like Gitlab CI/CD or GitHub Actions
+- Huge interest in DevOps like Gitlab CI/CD
+- Tech in general (especially buttons)
 
 ### 🌍 Contact:
 - Discord: LordOfCookie#6969
