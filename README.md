@@ -7,8 +7,12 @@
 - **Frameworks**: Vue.js, express
 - **📊 Databases**: MySQL
 
-### ⌨️ Projects in Development:
+### ⌨️ Projects in development:
 - nothing public at the moment (but feel free to drop me a message and get to know it)
+
+### 💻 Projects in production:
+- darkmode.js - A lightweight js library to implement a darkmode at your website
+- vue-insta-stories-webpage-integration - An npm package for vue.js to create a slideshow in the look of an instagram story
 
 ### 📚 Learning...
 - Docker and docker compose
