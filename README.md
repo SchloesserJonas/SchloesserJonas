@@ -1,11 +1,11 @@
 # Hello stranger 👋
 
 ### ✏️ Currently using...
-- **Languages:** Javascript, HTML, CSS, SQL
+- **Languages:** JavaScript, HTML, CSS, SQL
 - _Languages with (very) little experience_: C, C++, Java, Batch
 - **Runtimes**: [Nodejs](https://nodejs.org/en/)
-- **Frameworks**: Vue.js, express
-- **📊 Databases**: MySQL
+- **Frameworks**: [Vue.js](https://vuejs.org/), [express](https://expressjs.com/de/) (soon replaced by [fastify](https://www.fastify.io/))
+- **📊 Databases**: MySQL, PostgreSQL
 
 ### ⌨️ Projects in development:
 - nothing public at the moment (but feel free to drop me a message and get to know it)
@@ -19,8 +19,7 @@
 - Python
 
 ### Other
-- Huge interest in DevOps like Gitlab CI/CD
-- Tech in general (especially buttons)
+- Tech in general (especially buttons... don't ask why)
 
 ### 🌍 Contact:
 - Discord: LordOfCookie#6969
