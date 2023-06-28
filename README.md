@@ -22,7 +22,7 @@
 - Tech in general (especially buttons... don't ask why)
 
 ### 🌍 Contact:
-- Discord: LordOfCookie#6969
+- Discord: lordofcookie
 
 <!--
 **SchloesserJonas/SchloesserJonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
