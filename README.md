@@ -4,7 +4,7 @@
 - **Languages:** JavaScript, HTML, CSS, SQL
 - _Languages with (very) little experience_: C, C++, Java, Batch
 - **Runtimes**: [Nodejs](https://nodejs.org/en/)
-- **Frameworks**: [Vue.js](https://vuejs.org/), [express](https://expressjs.com/de/) (soon replaced by [fastify](https://www.fastify.io/))
+- **Frameworks**: [Vue.js](https://vuejs.org/), [fastify](https://www.fastify.io/) (earlier [express](https://expressjs.com/de/))
 - **📊 Databases**: MySQL, PostgreSQL
 
 ### ⌨️ Projects in development:
