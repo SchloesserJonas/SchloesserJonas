@@ -1,7 +1,7 @@
 # Hello stranger 👋
 
 ### ✏️ Currently using...
-- **Languages:** JavaScript, HTML, CSS, SQL
+- **Languages:** JavaScript, HTML, CSS, SQL, Python
 - _Languages with (very) little experience_: C, C++, Java, Batch
 - **Runtimes**: [Nodejs](https://nodejs.org/en/)
 - **Frameworks**: [Vue.js](https://vuejs.org/), [fastify](https://www.fastify.io/) (earlier [express](https://expressjs.com/de/))
@@ -17,7 +17,6 @@
 
 ### 📚 Learning...
 - Docker and docker compose
-- Python
 
 ### Other
 - Tech in general (especially buttons... don't ask why)
