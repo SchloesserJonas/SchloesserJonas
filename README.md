@@ -10,7 +10,7 @@ Welcome to my github profile :)
 - **Other:** Docker and Docker Compose
 
 ### ⌨️ Projects in development:
-- nothing public at the moment (but feel free to drop me a message and get to know it)
+- [vue-notifications](https://github.com/SchloesserJonas/vue-notifications) - A customizable vue.js library to show Pop-Up notificatons on your webpage
 
 ### 💻 Projects in production:
 - [darkmode.js](https://github.com/SchloesserJonas/darkmode.js) - A lightweight js library to implement a darkmode at your website
