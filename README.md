@@ -1,4 +1,5 @@
 # Hello stranger 👋
+Welcome to my github profile :)
 
 ### ✏️ Currently using...
 - **Languages:** JavaScript, HTML, CSS, SQL, Python
@@ -6,6 +7,7 @@
 - **Runtimes**: [Nodejs](https://nodejs.org/en/)
 - **Frameworks**: [Vue.js](https://vuejs.org/), [fastify](https://www.fastify.io/) (earlier [express](https://expressjs.com/de/))
 - **📊 Databases**: MySQL, PostgreSQL
+- **Other:** Docker and Docker Compose
 
 ### ⌨️ Projects in development:
 - nothing public at the moment (but feel free to drop me a message and get to know it)
@@ -15,14 +17,18 @@
 - [vue-insta-stories-webpage-integration](https://github.com/SchloesserJonas/vue-insta-stories-webpage-integration) - An npm package for vue.js to create a slideshow in the look of an instagram story
 - [unify.css](https://github.com/SchloesserJonas/unify.css)  - A mixture of reset.css and normalize.css to optimize your coding workflow.
 
-### 📚 Learning...
-- Docker and docker compose
+### 📚 Learning/ Wanna learn...
+- C#
+- MongoDB & redis
 
-### Other
-- Tech in general (especially buttons... don't ask why)
+### Other interesting things about me
+- I like all kinds of tech stuff (especially buttons... don't ask why)
 
 ### 🌍 Contact:
 - Discord: lordofcookie
+
+Feel free to drop me a message on discord or vía [email](mailto:github@jonas-schloesser.de) if you use one of my librarys or have any questions.
+Looking forward to see your work! :)
 
 <!--
 **SchloesserJonas/SchloesserJonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
