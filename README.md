@@ -4,7 +4,7 @@ Welcome to my github profile :)
 ### ✏️ Currently using...
 - **Languages:** JavaScript, HTML, CSS, SQL, Python
 - _Languages with (very) little experience_: C, C++, Java, Batch
-- **Runtimes**: [Nodejs](https://nodejs.org/en/)
+- **Runtimes**: [Nodejs](https://nodejs.org/en/), [Python](https://www.python.org/)
 - **Frameworks**: [Vue.js](https://vuejs.org/), [fastify](https://www.fastify.io/) (earlier [express](https://expressjs.com/de/))
 - **📊 Databases**: MySQL, PostgreSQL
 - **Other:** Docker and Docker Compose
@@ -20,6 +20,7 @@ Welcome to my github profile :)
 ### 📚 Learning/ Wanna learn...
 - C#
 - MongoDB & redis
+- some facettes of the .NET Framework
 
 ### Other interesting things about me
 - I like all kinds of tech stuff (especially buttons... don't ask why)
@@ -27,7 +28,7 @@ Welcome to my github profile :)
 ### 🌍 Contact:
 - Discord: lordofcookie
 
-Feel free to drop me a message on discord or vía [email](mailto:github@jonas-schloesser.de) if you use one of my librarys or have any questions.
+Feel free to drop me a message on discord or vía [email](mailto:github@jonas-schloesser.de) if you use one of my librarys or have any questions.\
 Looking forward to see your work! :)
 
 <!--
