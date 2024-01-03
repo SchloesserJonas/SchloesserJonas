@@ -16,6 +16,7 @@ Welcome to my github profile :)
 - [darkmode.js](https://github.com/SchloesserJonas/darkmode.js) - A lightweight js library to implement a darkmode at your website
 - [vue-insta-stories-webpage-integration](https://github.com/SchloesserJonas/vue-insta-stories-webpage-integration) - An npm package for vue.js to create a slideshow in the look of an instagram story
 - [unify.css](https://github.com/SchloesserJonas/unify.css)  - A mixture of reset.css and normalize.css to optimize your coding workflow.
+- [availability checker](https://github.com/SchloesserJonas/availability-checker) - A small script to monitor the availability of web services using Pushover API
 
 ### 📚 Learning/ Wanna learn...
 - C#
