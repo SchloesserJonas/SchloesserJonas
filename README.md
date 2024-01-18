@@ -19,7 +19,7 @@ Welcome to my github profile :)
 - [availability checker](https://github.com/SchloesserJonas/availability-checker) - A small script to monitor the availability of web services using Pushover API
 
 ### 📚 Learning/ Wanna learn...
-- C#
+- C#, Rust
 - MongoDB & redis
 - some facettes of the .NET Framework
 
