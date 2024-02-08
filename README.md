@@ -32,6 +32,10 @@ Welcome to my github profile :)
 Feel free to drop me a message on discord or vía [email](mailto:github@jonas-schloesser.de) if you use one of my librarys or have any questions.\
 Looking forward to see your work! :)
 
+
+![profile image banner](https://jonas-schloesser.de/assets/LinkedIn.png)
+
+
 <!--
 **SchloesserJonas/SchloesserJonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
