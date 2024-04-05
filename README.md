@@ -18,6 +18,7 @@ Welcome to my github profile :)
 - [vue-insta-stories-webpage-integration](https://github.com/SchloesserJonas/vue-insta-stories-webpage-integration) - An npm package for vue.js to create a slideshow in the look of an instagram story
 - [unify.css](https://github.com/SchloesserJonas/unify.css)  - A mixture of reset.css and normalize.css to optimize your coding workflow.
 - [availability checker](https://github.com/SchloesserJonas/availability-checker) - A small script to monitor the availability of web services using Pushover API
+- [python-logger-utility](https://github.com/SchloesserJonas/python-logger-utility) - A predefined logger that uses python logging to generate colorcoded logs
 
 ### 📚 Learning/ Wanna learn...
 - C#, Rust
