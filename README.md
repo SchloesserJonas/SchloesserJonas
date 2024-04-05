@@ -37,6 +37,10 @@ Looking forward to see your work! :)
 
 ![profile image banner](https://jonas-schloesser.de/assets/LinkedIn.png)
 
+## Some more Stuff
+<sup>I really liked the stats card when I first saw them. So there you go</sup>  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schloesserjonas&theme=transparent)
+
 
 <!--
 **SchloesserJonas/SchloesserJonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
