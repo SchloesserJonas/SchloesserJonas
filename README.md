@@ -29,8 +29,6 @@ Welcome to my github profile :)
 - I like all kinds of tech stuff (especially buttons... don't ask why)
 
 ### 🌍 Contact:
-- Discord: lordofcookie
-
 Feel free to drop me a message on discord or vía [email](mailto:github@jonas-schloesser.de) if you use one of my librarys or have any questions.\
 Looking forward to see your work! :)
 
