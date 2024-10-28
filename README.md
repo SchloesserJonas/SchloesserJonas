@@ -9,17 +9,6 @@ Welcome to my github profile :)
 - **📊 Databases**: MySQL, PostgreSQL
 - **Other:** Docker and Docker Compose
 
-### ⌨️ Projects in development:
-- [vue-notifications](https://github.com/SchloesserJonas/vue-notifications) - A customizable vue.js library to show Pop-Up notificatons on your webpage
-
-### 💻 Projects in production:
-- [darkmode.js](https://github.com/SchloesserJonas/darkmode.js) - A lightweight js library to implement a darkmode at your website
-- [theme.js](https://github.com/SchloesserJonas/theme.js) - V2 of darkmode.js but with support for more than 2 themes
-- [vue-insta-stories-webpage-integration](https://github.com/SchloesserJonas/vue-insta-stories-webpage-integration) - An npm package for vue.js to create a slideshow in the look of an instagram story
-- [unify.css](https://github.com/SchloesserJonas/unify.css)  - A mixture of reset.css and normalize.css to optimize your coding workflow.
-- [availability checker](https://github.com/SchloesserJonas/availability-checker) - A small script to monitor the availability of web services using Pushover API
-- [python-logger-utility](https://github.com/SchloesserJonas/python-logger-utility) - A predefined logger that uses python logging to generate colorcoded logs
-
 ### 📚 Learning/ Wanna learn...
 - C#, Rust
 - MongoDB & redis
@@ -34,11 +23,6 @@ Looking forward to see your work! :)
 
 
 ![profile image banner](https://jonas-schloesser.de/assets/LinkedIn.png)
-
-## Some more Stuff
-<sup>I really liked the stats card when I first saw them. So there you go</sup>  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schloesserjonas&theme=transparent)
-
 
 <!--
 **SchloesserJonas/SchloesserJonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
